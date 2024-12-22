@@ -41,6 +41,4 @@ I'm a Deaf Web Developer with over 20 years of experience, specializing in Vue.j
 
 ---
 
-"Code speaks louder than words" 💻
-
-I'm always open to interesting projects and collaborations. Feel free to reach out via email!
+_"In code we trust - it's visual, like sign language"_ 🤟💻
